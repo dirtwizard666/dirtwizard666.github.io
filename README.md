@@ -17,6 +17,16 @@
 ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.png)
 ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.png)
 
+THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE THIS WHOLE SET INCLUDING THE MAGICIAN, YOU BECOME THE MAGICIAN AND THEN REPLICATE TO CREATE ANOTHER MAGICIAN WHO CREATES ANOTHER MAGICIAN AND SO ON!  TO REPLICATE THE SET, CONTACT A TRASH MAGICIAN ALREADY ON THE NETWORK.  
+
+# SOCIALS
+
+ - [github.com/dirtwizard666](https://github.com/dirtwizard666/)
+ - [tiktok.com/@dirt_wizard666](https://www.tiktok.com/@dirt_wizard666)
+ - [cyberpunk.lol/@dirtwizard [mastodon]](https://cyberpunk.lol/@dirtwizard)
+ - [shark.distantserver.org/@dirtwizard [sharkey]](https://shark.distantserver.org/@dirtwizard)
+ - [email dirtwizard@colfax.site](mailto:dirtwizard@colfax.site)
+ - [email operator@colfax.site](mailto:operator@colfax.site)
 
 # LEARN
 
