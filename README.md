@@ -1,5 +1,9 @@
 # [TRASH MAGIC](https://dirtwizard666.github.io)
 
+# BECOME A TRASH MAGICIAN!
+
+THE TRASH MAGICIAN BECOMES SELF-REPLICATING MEDIA! THE TRASH MAGICIAN REPLICATES THE SET!  THE TRASH MAGICIAN REPLICATES THEMSELVES!
+
  1. CREATE [GITHUB](https://github.com) ACCOUNT WITH AN EMAIL
  2. CREATE A NEW REPOSITORY CALLED [username].github.io, where [username] is your github user name
  3. REPLICATE [index.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/index.html)
