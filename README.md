@@ -1,4 +1,4 @@
-# TRASH MAGIC REPLICATOR
+# [TRASH MAGIC](https://dirtwizard666.github.io)
 
  - CREATE GITHUB ACCOUNT WITH AN EMAIL
  - CREATE A NEW REPOSITORY CALLED [username].github.io, where [username] is your github user name
