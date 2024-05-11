@@ -14,3 +14,6 @@
  - REPLICATE ZINES
  - REPLICATE SQUARES
  - [DIRTWIZARD666.GITHUB.IO](https://dirtwizard666.github.io)
+
+![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.png)
+![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.png)
