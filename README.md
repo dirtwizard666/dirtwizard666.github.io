@@ -16,3 +16,16 @@
 
 ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.png)
 ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.png)
+
+
+# LEARN
+
+ - [HTML](https://www.w3schools.com/html/default.asp)
+ - [CSS](https://www.w3schools.com/css/default.asp)
+ - [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
+ - [WORLD WIDE WEB](https://en.wikipedia.org/wiki/World_Wide_Web)
+ - [CODEPEN.IO](https://codepen.io/)
+ - [P5JS](https://p5js.org/)
+ - [HYPERLAND](https://archive.org/details/DouglasAdams-Hyperland)
+ - [THE BELL SYSTEM](https://en.wikipedia.org/wiki/Bell_System)
+ - [THE INTERNET](https://en.wikipedia.org/wiki/Internet)
