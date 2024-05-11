@@ -43,3 +43,9 @@ THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE T
  - [HYPERLAND](https://archive.org/details/DouglasAdams-Hyperland)
  - [THE BELL SYSTEM](https://en.wikipedia.org/wiki/Bell_System)
  - [THE INTERNET](https://en.wikipedia.org/wiki/Internet)
+
+# ZINES 
+ 
+ - [nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf)
+ - [THE BOOK OF GEOMETRON](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/book-of-geometron.pdf)
+
