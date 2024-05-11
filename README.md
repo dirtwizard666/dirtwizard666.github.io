@@ -6,17 +6,17 @@ THE TRASH MAGICIAN BECOMES SELF-REPLICATING MEDIA! THE TRASH MAGICIAN REPLICATES
 
  1. CREATE [GITHUB](https://github.com) ACCOUNT WITH AN EMAIL
  2. CREATE A NEW REPOSITORY CALLED [username].github.io, where [username] is your github user name
- 3. REPLICATE [index.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/index.html)
- 4. REPLICATE [trashmagic.js](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/trashmagic.js)
- 5. REPLICATE [trashmagic.css](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/trashmagic.css)
- 6. REPLICATE [README.md](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/README.md)
- 7. REPLICATE [what-i-can-do-for-the-network.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/what-i-can-do-for-the-network.html)
- 8. REPLICATE [what-i-want-from-the-network.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/what-i-want-from-the-network.html)
- 9. REPLICATE [socials.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/socials.html)
- 10. REPLICATE [qrcode.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.html)
- 11. REPLICATE [qrcode-page.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.html)
- 12. REPLICATE [zines.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/zines.html)
- 13. REPLICATE [memes.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/memes.html)
+ 3. REPLICATE [index.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/index.html)AND MUTATE!
+ 4. REPLICATE [trashmagic.js](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/trashmagic.js) AND MUTATE!
+ 5. REPLICATE [trashmagic.css](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/trashmagic.css) AND MUTATE!
+ 6. REPLICATE [README.md](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/README.md) AND MUTATE!
+ 7. REPLICATE [what-i-can-do-for-the-network.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/what-i-can-do-for-the-network.html) AND MUTATE!
+ 8. REPLICATE [what-i-want-from-the-network.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/what-i-want-from-the-network.html) AND MUTATE!
+ 9. REPLICATE [socials.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/socials.html) AND MUTATE!
+ 10. REPLICATE [qrcode.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.html) AND MUTATE!
+ 11. REPLICATE [qrcode-page.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.html) AND MUTATE!
+ 12. REPLICATE [zines.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/zines.html) AND MUTATE!
+ 13. REPLICATE [memes.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/memes.html) AND MUTATE!
 
 ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.png)
 ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.png)
