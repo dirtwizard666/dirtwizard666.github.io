@@ -49,3 +49,12 @@ THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE T
  - [nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf)
  - [THE BOOK OF GEOMETRON](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/book-of-geometron.pdf)
 
+# WEB
+
+ - [colfax.site](https://colfax.site)
+ - [sloanslake.art](https://sloanslake.art)
+ - [trashrobot.org](https://trashrobot.org)
+ - [quantumart.org](https://quantumart.org)
+ - [dirtwizard666.github.io](https://dirtwizard666.github.io)
+
+ 
