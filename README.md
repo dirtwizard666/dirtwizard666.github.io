@@ -1,5 +1,7 @@
 # [TRASH MAGIC](https://dirtwizard666.github.io)
 
+# [dirtwizard666.github.io](https://dirtwizard666.github.io)
+
 # BECOME A TRASH MAGICIAN!
 
 THE TRASH MAGICIAN BECOMES SELF-REPLICATING MEDIA! THE TRASH MAGICIAN REPLICATES THE SET!  THE TRASH MAGICIAN REPLICATES THEMSELVES!
@@ -57,4 +59,10 @@ THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE T
  - [quantumart.org](https://quantumart.org)
  - [dirtwizard666.github.io](https://dirtwizard666.github.io)
 
- 
+ # MEMES
+
+ ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/feed.png)
+ ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/elements.png)
+ ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/square-trash.png)
+ ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/cube-trash.png)
+
