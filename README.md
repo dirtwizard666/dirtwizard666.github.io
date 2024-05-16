@@ -50,6 +50,8 @@ THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE T
  
  - [nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf)
  - [THE BOOK OF GEOMETRON](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/book-of-geometron.pdf)
+ - [THE TRASH MAGIC MANIFESTO AND ACTION COLORING BOOK](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/Trash_Magic_Manifesto.pdf)
+ - [GEOMETRON MAGIC](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/main-large-geometron-magic.pdf)
 
 # WEB
 
