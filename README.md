@@ -69,3 +69,7 @@ THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE T
  ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/square-trash.png)
  ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/cube-trash.png)
 
+# CYBER MAGE
+
+ [![](images/robe.png)](https://www.amazon.com/dp/B0B5ZNZGV9)
+ [![](images/mask.png)](https://www.amazon.com/dp/B0BBVW17LP)
