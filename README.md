@@ -71,5 +71,5 @@ THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE T
 
 # CYBER MAGE
 
- [![](images/robe.png)](https://www.amazon.com/dp/B0B5ZNZGV9)
- [![](images/mask.png)](https://www.amazon.com/dp/B0BBVW17LP)
+ [![](robe.png)](https://www.amazon.com/dp/B0B5ZNZGV9)
+ [![](mask.png)](https://www.amazon.com/dp/B0BBVW17LP)
