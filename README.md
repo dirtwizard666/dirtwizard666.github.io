@@ -64,6 +64,8 @@ THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE T
 
  # MEMES
 
+ ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/dumpster1.png)
+ ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/dumpster2.png)
  ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/feed.png)
  ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/elements.png)
  ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/square-trash.png)
