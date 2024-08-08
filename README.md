@@ -1,4 +1,4 @@
-# [DIRT SOUNDS](https://github.com/dirtwizard666/dirtwizard666.github.io/album.html)
+# [DIRT WIZARD 666 HOME PAGE](https://dirtwizard666.github.io)
 
 ![qrcode.png](qrcode.png)
 
