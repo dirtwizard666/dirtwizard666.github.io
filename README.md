@@ -1,76 +1,25 @@
-# [TRASH MAGIC](https://dirtwizard666.github.io)
+# [DIRT SOUNDS](https://github.com/dirtwizard666/dirtwizard666.github.io/album.html)
 
-# [dirtwizard666.github.io](https://dirtwizard666.github.io)
+![qrcode.png](qrcode.png)
 
-# BECOME A TRASH MAGICIAN!
+# ELEMENTS OF THE SET
 
-THE TRASH MAGICIAN BECOMES SELF-REPLICATING MEDIA! THE TRASH MAGICIAN REPLICATES THE SET!  THE TRASH MAGICIAN REPLICATES THEMSELVES!
+REPLACE ALL ELEMENTS WITH YOUR OWN ELEMENTS, DOWNLOAD THE HTML FILES, UPLOAD TO YOUR OWN SERVER AND EDIT TO BE YOUR OWN VERSION!  REPLICATE! REPLICATE! REPLICATE!
 
- 1. CREATE [GITHUB](https://github.com) ACCOUNT WITH AN EMAIL
- 2. CREATE A NEW REPOSITORY CALLED [username].github.io, where [username] is your github user name
- 3. REPLICATE [index.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/index.html)AND MUTATE!
- 4. REPLICATE [trashmagic.js](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/trashmagic.js) AND MUTATE!
- 5. REPLICATE [trashmagic.css](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/trashmagic.css) AND MUTATE!
- 6. REPLICATE [README.md](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/README.md) AND MUTATE!
- 7. REPLICATE [what-i-can-do-for-the-network.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/what-i-can-do-for-the-network.html) AND MUTATE!
- 8. REPLICATE [what-i-want-from-the-network.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/what-i-want-from-the-network.html) AND MUTATE!
- 9. REPLICATE [socials.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/socials.html) AND MUTATE!
- 10. REPLICATE [qrcode.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.html) AND MUTATE!
- 11. REPLICATE [qrcode-page.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.html) AND MUTATE!
- 12. REPLICATE [zines.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/zines.html) AND MUTATE!
- 13. REPLICATE [memes.html](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/memes.html) AND MUTATE!
+ - [index.html](index.html)
+ - [SONG606.mp3](song1.mp3)
+ - [SONG333.mp3](song2.mp3)
+ - [cover.png](cover.png)
+ - [homepage.png](homepage.png)
 
-![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode.png)
-![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/qrcode-page.png)
+# Links
 
-THIS IS A SELF-REPLICATING SET! YOU BECOME A TRASH MAGICIAN WHEN YOU REPLICATE THIS WHOLE SET INCLUDING THE MAGICIAN, YOU BECOME THE MAGICIAN AND THEN REPLICATE TO CREATE ANOTHER MAGICIAN WHO CREATES ANOTHER MAGICIAN AND SO ON!  TO REPLICATE THE SET, CONTACT A TRASH MAGICIAN ALREADY ON THE NETWORK.  
+ - [index.html](index.html)
+ - [http://localhost/](http://localhost/)
+ - [webeditor.html](webeditor.html)
+ - [editor.php](editor.php)
+ - [php/replicator.txt](php/replicator.txt)
 
-# SOCIALS
+![cover.png](cover.png)
 
- - [github.com/dirtwizard666](https://github.com/dirtwizard666/)
- - [tiktok.com/@dirt_wizard666](https://www.tiktok.com/@dirt_wizard666)
- - [cyberpunk.lol/@dirtwizard [mastodon]](https://cyberpunk.lol/@dirtwizard)
- - [shark.distantserver.org/@dirtwizard [sharkey]](https://shark.distantserver.org/@dirtwizard)
- - [email dirtwizard@colfax.site](mailto:dirtwizard@colfax.site)
- - [email operator@colfax.site](mailto:operator@colfax.site)
-
-# LEARN
-
- - [HTML](https://www.w3schools.com/html/default.asp)
- - [CSS](https://www.w3schools.com/css/default.asp)
- - [JAVASCRIPT](https://www.w3schools.com/js/default.asp)
- - [WORLD WIDE WEB](https://en.wikipedia.org/wiki/World_Wide_Web)
- - [CODEPEN.IO](https://codepen.io/)
- - [P5JS](https://p5js.org/)
- - [HYPERLAND](https://archive.org/details/DouglasAdams-Hyperland)
- - [THE BELL SYSTEM](https://en.wikipedia.org/wiki/Bell_System)
- - [THE INTERNET](https://en.wikipedia.org/wiki/Internet)
-
-# ZINES 
- 
- - [nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/nadia-c-from-crimethinc-your-politics-are-boring-as-fuck.lt.pdf)
- - [THE BOOK OF GEOMETRON](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/book-of-geometron.pdf)
- - [GEOMETRON MAGIC](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/main-large-geometron-magic.pdf)
- - [COLORING BOOK](https://github.com/dirtwizard666/dirtwizard666.github.io/blob/main/coloring-book.pdf)
-
-# WEB
-
- - [colfax.site](https://colfax.site)
- - [sloanslake.art](https://sloanslake.art)
- - [trashrobot.org](https://trashrobot.org)
- - [quantumart.org](https://quantumart.org)
- - [dirtwizard666.github.io](https://dirtwizard666.github.io)
-
- # MEMES
-
- ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/dumpster1.png)
- ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/dumpster2.png)
- ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/feed.png)
- ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/elements.png)
- ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/square-trash.png)
- ![](https://raw.githubusercontent.com/dirtwizard666/dirtwizard666.github.io/main/cube-trash.png)
-
-# CYBER MAGE
-
- [![](robe.png)](https://www.amazon.com/dp/B0B5ZNZGV9)
- [![](mask.png)](https://www.amazon.com/dp/B0BBVW17LP)
+![homepage.png](homepage.png)
