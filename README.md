@@ -7,8 +7,8 @@
 REPLACE ALL ELEMENTS WITH YOUR OWN ELEMENTS, DOWNLOAD THE HTML FILES, UPLOAD TO YOUR OWN SERVER AND EDIT TO BE YOUR OWN VERSION!  REPLICATE! REPLICATE! REPLICATE!
 
  - [index.html](index.html)
- - [SONG606.mp3](song1.mp3)
- - [SONG333.mp3](song2.mp3)
+ - [SONG606.mp3](SONG606.mp3)
+ - [SONG333.mp3](SONG333.mp3)
  - [cover.png](cover.png)
  - [homepage.png](homepage.png)
 
